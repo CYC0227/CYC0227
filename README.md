@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+백엔드 개발자가 되고 싶어요
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CYC0227&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="157px">
