@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 백엔드 개발자가 되고 싶어요
 
-절 데려가주세요 넥스터즈 
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=CYC0227&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="157px">
