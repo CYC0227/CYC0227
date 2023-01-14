@@ -1,20 +1,26 @@
 ### Hi there 안녕하세요! 👋
+백엔드 개발자 최윤찬입니다.
 
-<!--
-**CYC0227/CYC0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️Portfolio
+https://married-appeal-f93.notion.site/9515b93dc3604fcd96936e00314ef835
 
-Here are some ideas to get you started:
+### 📧Email
+cyc0227@gachon.ac.kr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚Blog
+[https://choibulldog.tistory.com/](https://choibulldog.tistory.com/)
 
-백엔드 개발자가 되고 싶어요
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CYC0227&count_private=true&show_icons=true&theme=vuefy&hide_border=false" height="157px">
+### ✏프로젝트
+
+<a href="https://github.com/MangPofol/bookclub-server">
+    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=MangPofol&repo=bookclub-server&theme=default">
+</a>
+<br>
+<a href="https://github.com/GC210GP/blood-donation-server">
+    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=GC210GP&repo=blood-donation-server&theme=default">
+</a>
+<br>
+<a href="https://github.com/FiveSensesApp/FiveSenses-server">
+    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=FiveSensesApp&repo=FiveSenses-server&theme=default">
+</a>
