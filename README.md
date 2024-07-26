@@ -7,9 +7,6 @@ https://married-appeal-f93.notion.site/9515b93dc3604fcd96936e00314ef835
 ### 📧이메일
 cyc0227@gachon.ac.kr
 
-### 📚블로그
-[https://choibulldog.tistory.com/](https://choibulldog.tistory.com/)
-
 
 ### ✏프로젝트
 
